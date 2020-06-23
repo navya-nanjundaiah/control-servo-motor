@@ -8,6 +8,9 @@ In this project, the  web page will contain four operational buttons that will c
 - Breadboard Power Supply Module
 - Jumper Wires
 - Wall Wart Power Supply (9v, 1A)
+- Micro Servo
+- 4x 220 Ω Resistor
+- 4x LED
 ## Steps Involved
 - Include all the necessary libraries
 ```
@@ -90,4 +93,3 @@ String sendData(String command,const int timeout,boolean debug){
 ```
 
 -  open .HTML file on browser
-
